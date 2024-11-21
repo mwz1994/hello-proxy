@@ -4,7 +4,7 @@ jdk 21
 gradle 8.10.2
 
 ## Steps To Reproduce
-Clone https://github.com/mwz1994/hello-proxy.git
+Clone https://github.com/mwz1994/hello-proxy.git (main branch)
 
 Run the app
 
