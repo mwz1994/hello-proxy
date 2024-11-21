@@ -24,7 +24,7 @@ This is an occasional bug that requires several attempts. You will see the above
 
 I get an error after 30-50 calls with a tool like jmeter.
 
-The error message for the Https protocol is as follows; the exception message for the http protocol is somewhat different
+The error message for the HTTPS protocol is as follows; the exception message for the HTTP protocol is somewhat different
 
 ##  Exception Message（HTTPS）
 `11:02:54.221 [main] INFO  io.micronaut.runtime.Micronaut - Startup completed in 1320ms. Server Running: http://localhost:8080
