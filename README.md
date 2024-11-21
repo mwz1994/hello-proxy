@@ -1,6 +1,6 @@
 ## Version
-micronaut 4.7.5
-jdk 21
+micronaut 4.7.5  
+jdk 21  
 gradle 8.10.2
 
 ## Steps To Reproduce
