@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: hello-proxy
+  server:
+    thread-selection: IO
+    port: 8080
